@@ -13,3 +13,5 @@ gentle.egg-info/
 exp/
 ext/k3
 ext/m3
+/resources
+.DS_Store
